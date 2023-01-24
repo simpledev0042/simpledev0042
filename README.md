@@ -1,4 +1,3 @@
-# 👋, I'm Kato Chojiro 
 ## Passionate Full Stack Developer
 Passionate Full-Stack Developer with 7+ years of hands-on experience in developing scalable and maintainable websites and applications using a wide range of front-end and back-end skills like React, Django, Node.js/Express, TypeScript, Vue, Laravel and GraphQL/Apollo.
 Having experience with both front-end and back-end as Full-Stack Developer, I always focus on providing efficient solutions based on the keen attention to what needs to be done, implementing best practices and guidelines.
