@@ -12,8 +12,8 @@ Looking to further enhance Nest, Vue, Django, GraphQL and BlockChain skills as t
   
 ## My Github Stats
 <div  style="display: flex; flex-direction: column; align-items: center; justify-content:center; width: 100%; ">
-<img  align="center" style="width: 43%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=katochojiro&show_icons=true&locale=en&layout=compact"  alt="katochojiro" />
-<img  align="center" style="width: 52%;" src="https://github-readme-stats.vercel.app/api?username=katochojiro&show_icons=true&locale=en"  alt="katochojiro" />
+<img  align="center" style="width: 43%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackhorse00042&show_icons=true&locale=en&layout=compact"  alt="blackhorse00042" />
+<img  align="center" style="width: 52%;" src="https://github-readme-stats.vercel.app/api?username=blackhorse00042&show_icons=true&locale=en"  alt="blackhorse00042" />
 </div>
 
 ## Connect with me
