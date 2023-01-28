@@ -8,7 +8,7 @@ Looking to further enhance Nest, Vue, Django, GraphQL and BlockChain skills as t
 <img src="https://komarev.com/ghpvc/?username=katochojiro&label=Profile%20views&color=0e75b6&style=flat" alt="katochojiro" />
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katochojiro" alt="katochojiro" /></a> </p>  
+<p align="left"> <a href="https://github.com/blackhorse00042/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackhorse00042" alt="blackhorse00042" /></a> </p>  
   
 ## My Github Stats
 <div  style="display: flex; flex-direction: column; align-items: center; justify-content:center; width: 100%; ">
