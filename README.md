@@ -5,15 +5,15 @@ I enjoy learning new tools and technology that gets the job done well for my cli
 Looking to further enhance Nest, Vue, Django, GraphQL and BlockChain skills as the featured full stack developer.
 
 ### Glade to see you here
-<img src="https://komarev.com/ghpvc/?username=katochojiro&label=Profile%20views&color=0e75b6&style=flat" alt="katochojiro" />
+<img src="https://komarev.com/ghpvc/?username=simpledev0042&label=Profile%20views&color=0e75b6&style=flat" alt="simpledev0042" />
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/blackhorse00042/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackhorse00042" alt="blackhorse00042" /></a> </p>  
+<p align="left"> <a href="https://github.com/simpledev0042/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simpledev0042" alt="simpledev0042" /></a> </p>  
   
 ## My Github Stats
 <div  style="display: flex; flex-direction: column; align-items: center; justify-content:center; width: 100%; ">
-<img  align="center" style="width: 43%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackhorse00042&show_icons=true&locale=en&layout=compact"  alt="blackhorse00042" />
-<img  align="center" style="width: 52%;" src="https://github-readme-stats.vercel.app/api?username=blackhorse00042&show_icons=true&locale=en"  alt="blackhorse00042" />
+<img  align="center" style="width: 43%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=simpledev0042&show_icons=true&locale=en&layout=compact"  alt="simpledev0042" />
+<img  align="center" style="width: 52%;" src="https://github-readme-stats.vercel.app/api?username=simpledev0042&show_icons=true&locale=en"  alt="simpledev0042" />
 </div>
 
 ## Connect with me
